@@ -1,4 +1,4 @@
-# SysadminNotes
+# SysadminNotes BASH scripts
 my first documented steps in learning SysAdministration
 ## some basic Bash scripts
 
